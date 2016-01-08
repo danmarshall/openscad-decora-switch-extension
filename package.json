@@ -1,0 +1,25 @@
+{
+  "name": "openscad-decora-switch-extension",
+  "version": "1.0.0",
+  "description": "An extension for Decora style light switches.",
+  "main": "decora-switch-extension.scad",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmarshall/openscad-decora-switch-extension.git"
+  },
+  "keywords": [
+    "openscad"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/openscad-decora-switch-extension/issues"
+  },
+  "homepage": "https://github.com/danmarshall/openscad-decora-switch-extension",
+  "dependencies": {
+    "openscad-sliding-bolt": "git://github.com/danmarshall/openscad-sliding-bolt.git"
+  }
+}
